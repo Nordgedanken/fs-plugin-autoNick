@@ -1,0 +1,21 @@
+{
+  "name": "fs-plugin-auto_nick",
+  "version": "0.0.1",
+  "description": "A Tool to auto change the Nick to an random one",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flying-squid",
+    "plugin",
+    "minecraft",
+    "nick",
+    "youtube"
+  ],
+  "author": "MTRNord <info@nordgedanken.de>",
+  "license": "ISC",
+  "dependencies": {
+    "moniker": "^0.1.2"
+  }
+}
